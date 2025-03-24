@@ -1,4 +1,4 @@
-# Distributed Lag Models
+# [Distributed Lag Models](https://medium.com/@kylejones_47003/distributed-lag-models-in-dynamic-model-time-series-ba66e3d1432a)
 
 Distributed Lag Models in Dynamic Model Time Series
 
